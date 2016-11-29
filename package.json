@@ -1,0 +1,15 @@
+{
+  "name": "saveimage",
+  "version": "1.0.0",
+  "description": "Program for save image .png from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamilton Urbano",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "request": "^2.79.0"
+  }
+}
